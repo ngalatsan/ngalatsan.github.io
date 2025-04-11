@@ -40,6 +40,6 @@ tags:
 |-------|-----------|
 | Интернет-сервис (реализация в виде веб-приложения и мобильного приложения) | Онлайн медиа-каналы продвижения, билборды для аудитории пользователей, взаимовыгодное сотрудничество с организациями, имеющими отношение к тематике продукта |
 
-<a href="/files/Галацан_описание_SWOT_4P.docx" class="btn btn-primary" download>
+<a href="https://github.com/ngalatsan/ngalatsan.github.io/blob/main/files/Галацан_описание_SWOT_4P.docx" class="btn btn-primary" download>
   <i class="fas fa-download mr-2"></i>Скачать файл (DOCX)
 </a>

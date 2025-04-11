@@ -1,27 +1,53 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Задачи | EcoMonitor</title><link>https://ngalatsan.github.io/tag/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/</link><atom:link href="https://ngalatsan.github.io/tag/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/index.xml" rel="self" type="application/rss+xml"/><description>Задачи</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate><image><url>https://ngalatsan.github.io/media/logo_hu_d62eb0ab845aa656.png</url><title>Задачи</title><link>https://ngalatsan.github.io/tag/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/</link></image><item><title>Информация о проекте</title><link>https://ngalatsan.github.io/blog/main/</link><pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate><guid>https://ngalatsan.github.io/blog/main/</guid><description>
-&lt;details class="print:hidden xl:hidden" open>
-&lt;summary>Table of Contents&lt;/summary>
-&lt;div class="text-sm">
-&lt;nav id="TableOfContents">
-&lt;ul>
-&lt;li>&lt;a href="#о-проекте">О проекте&lt;/a>&lt;/li>
-&lt;li>&lt;a href="#цель-и-задачи">Цель и задачи&lt;/a>&lt;/li>
-&lt;/ul>
-&lt;/nav>
-&lt;/div>
-&lt;/details>
-&lt;h2 id="о-проекте">О проекте&lt;/h2>
-&lt;p>&lt;strong>EcoMonitor&lt;/strong> — это информационно-аналитическая система для мониторинга экологической обстановки, анализа данных о загрязнении окружающей среды и предоставления рекомендаций по улучшению экологической ситуации. Система предназначена для государственных органов, экологических организаций, предприятий и граждан, заинтересованных в сохранении окружающей среды.&lt;/p>
-&lt;h2 id="цель-и-задачи">Цель и задачи&lt;/h2>
-&lt;p>&lt;strong>Цель:&lt;/strong> создать систему анализа экологической обстановки в определенном регионе, упростить сбор и анализ информации, разработать визуализации данных для эффективного восприятия информации.&lt;/p>
-&lt;p>&lt;strong>Задачи:&lt;/strong>&lt;/p>
-&lt;ol>
-&lt;li>Разработать систему сбора информации с датчиков измерения температуры, влажности, загрязненности воздуха окружающей среды и др.&lt;/li>
-&lt;li>Автоматизировать сбор и хранение данных.&lt;/li>
-&lt;li>Интегрировать метеорологические системы для точного определения погодных условий.&lt;/li>
-&lt;li>Автоматизировать анализ собранных данных и расчета коэффициентов и показателей.&lt;/li>
-&lt;li>Представить различные типы визуализации данных в виде диаграмм, графиков, карт, гистограмм, схем и т.д.&lt;/li>
-&lt;/ol>
-&lt;a href="https://ngalatsan.github.io/files/пример_ИАС.docx" class="btn btn-primary" download>
-&lt;i class="fas fa-download mr-2">&lt;/i>Скачать описание проекта (DOCX)
-&lt;/a></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Задачи | EcoMonitor</title>
+    <link>https://ngalatsan.github.io/tag/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/</link>
+      <atom:link href="https://ngalatsan.github.io/tag/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>Задачи</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ngalatsan.github.io/media/logo_hu_d62eb0ab845aa656.png</url>
+      <title>Задачи</title>
+      <link>https://ngalatsan.github.io/tag/%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8/</link>
+    </image>
+    
+    <item>
+      <title>Информация о проекте</title>
+      <link>https://ngalatsan.github.io/blog/main/</link>
+      <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ngalatsan.github.io/blog/main/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;&lt;a href=&#34;#о-проекте&#34;&gt;О проекте&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#цель-и-задачи&#34;&gt;Цель и задачи&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h2 id=&#34;о-проекте&#34;&gt;О проекте&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;EcoMonitor&lt;/strong&gt; — это информационно-аналитическая система для мониторинга экологической обстановки, анализа данных о загрязнении окружающей среды и предоставления рекомендаций по улучшению экологической ситуации. Система предназначена для государственных органов, экологических организаций, предприятий и граждан, заинтересованных в сохранении окружающей среды.&lt;/p&gt;
+&lt;h2 id=&#34;цель-и-задачи&#34;&gt;Цель и задачи&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Цель:&lt;/strong&gt; создать систему анализа экологической обстановки в определенном регионе, упростить сбор и анализ информации, разработать визуализации данных для эффективного восприятия информации.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Задачи:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Разработать систему сбора информации с датчиков измерения температуры, влажности, загрязненности воздуха окружающей среды и др.&lt;/li&gt;
+&lt;li&gt;Автоматизировать сбор и хранение данных.&lt;/li&gt;
+&lt;li&gt;Интегрировать метеорологические системы для точного определения погодных условий.&lt;/li&gt;
+&lt;li&gt;Автоматизировать анализ собранных данных и расчета коэффициентов и показателей.&lt;/li&gt;
+&lt;li&gt;Представить различные типы визуализации данных в виде диаграмм, графиков, карт, гистограмм, схем и т.д.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;a href=&#34;https://github.com/ngalatsan/ngalatsan.github.io/blob/main/files/пример_ИАС.docx&#34; class=&#34;btn btn-primary&#34; download&gt;
+  &lt;i class=&#34;fas fa-download mr-2&#34;&gt;&lt;/i&gt;Скачать описание проекта (DOCX)
+&lt;/a&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

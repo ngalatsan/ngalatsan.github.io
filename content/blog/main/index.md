@@ -30,6 +30,6 @@ tags:
 5.	Представить различные типы визуализации данных в виде диаграмм, графиков, карт, гистограмм, схем и т.д.
 
 
-<a href="/files/пример_ИАС.docx" class="btn btn-primary" download>
+<a href="https://github.com/ngalatsan/ngalatsan.github.io/blob/main/files/пример_ИАС.docx" class="btn btn-primary" download>
   <i class="fas fa-download mr-2"></i>Скачать описание проекта (DOCX)
 </a>
