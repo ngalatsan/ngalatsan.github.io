@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home | Creator&#39;s Landing Page | Hugo Theme</title>
-    <link>https://example.com/</link>
-      <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>Home | EcoPlatform | Hugo Theme</title>
+    <link>https://ngalatsan.github.io/</link>
+      <atom:link href="https://ngalatsan.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Home</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/logo_hu_d62eb0ab845aa656.png</url>
+      <url>https://ngalatsan.github.io/media/logo_hu_d62eb0ab845aa656.png</url>
       <title>Home</title>
-      <link>https://example.com/</link>
+      <link>https://ngalatsan.github.io/</link>
     </image>
     
     <item>
       <title>📈 Описание</title>
-      <link>https://example.com/blog/description/</link>
+      <link>https://ngalatsan.github.io/blog/description/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/description/</guid>
+      <guid>https://ngalatsan.github.io/blog/description/</guid>
       <description>&lt;h1 id=&#34;ecomonitor&#34;&gt;EcoMonitor&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;EcoMonitor&lt;/strong&gt; — это информационно-аналитическая система для мониторинга экологической обстановки, анализа данных о загрязнении окружающей среды и предоставления рекомендаций по улучшению экологической ситуации. Система предназначена для государственных органов, экологических организаций, предприятий и граждан, заинтересованных в сохранении окружающей среды.&lt;/p&gt;
 &lt;hr&gt;
@@ -181,7 +181,7 @@
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;a href=&#34;https://example.com/files/пример_ИАС.docx&#34; class=&#34;btn btn-primary&#34; download&gt;
+&lt;a href=&#34;https://ngalatsan.github.io/files/пример_ИАС.docx&#34; class=&#34;btn btn-primary&#34; download&gt;
   &lt;i class=&#34;fas fa-download mr-2&#34;&gt;&lt;/i&gt;Скачать описание проекта (DOCX)
 &lt;/a&gt;
 &lt;hr&gt;
@@ -190,9 +190,9 @@
     
     <item>
       <title>SWOT-анализ, 4P</title>
-      <link>https://example.com/blog/swot_4p/</link>
+      <link>https://ngalatsan.github.io/blog/swot_4p/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/swot_4p/</guid>
+      <guid>https://ngalatsan.github.io/blog/swot_4p/</guid>
       <description>&lt;h2 id=&#34;swot-анализ&#34;&gt;SWOT-анализ&lt;/h2&gt;
 &lt;table&gt;
   &lt;thead&gt;
@@ -288,16 +288,16 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;a href=&#34;https://example.com/files/Галацан_описание_SWOT_4P.docx&#34; class=&#34;btn btn-primary&#34; download&gt;
+&lt;a href=&#34;https://ngalatsan.github.io/files/Галацан_описание_SWOT_4P.docx&#34; class=&#34;btn btn-primary&#34; download&gt;
   &lt;i class=&#34;fas fa-download mr-2&#34;&gt;&lt;/i&gt;Скачать файл (DOCX)
 &lt;/a&gt;</description>
     </item>
     
     <item>
       <title>Информация о проекте</title>
-      <link>https://example.com/blog/main/</link>
+      <link>https://ngalatsan.github.io/blog/main/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/blog/main/</guid>
+      <guid>https://ngalatsan.github.io/blog/main/</guid>
       <description>
 
 
@@ -325,25 +325,25 @@
 &lt;li&gt;Автоматизировать анализ собранных данных и расчета коэффициентов и показателей.&lt;/li&gt;
 &lt;li&gt;Представить различные типы визуализации данных в виде диаграмм, графиков, карт, гистограмм, схем и т.д.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;a href=&#34;https://example.com/files/пример_ИАС.docx&#34; class=&#34;btn btn-primary&#34; download&gt;
+&lt;a href=&#34;https://ngalatsan.github.io/files/пример_ИАС.docx&#34; class=&#34;btn btn-primary&#34; download&gt;
   &lt;i class=&#34;fas fa-download mr-2&#34;&gt;&lt;/i&gt;Скачать описание проекта (DOCX)
 &lt;/a&gt;</description>
     </item>
     
     <item>
       <title>Privacy</title>
-      <link>https://example.com/privacy/</link>
+      <link>https://ngalatsan.github.io/privacy/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/privacy/</guid>
+      <guid>https://ngalatsan.github.io/privacy/</guid>
       <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Terms of Service</title>
-      <link>https://example.com/terms/</link>
+      <link>https://ngalatsan.github.io/terms/</link>
       <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/terms/</guid>
+      <guid>https://ngalatsan.github.io/terms/</guid>
       <description>&lt;p&gt;Add your company legal terms here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
