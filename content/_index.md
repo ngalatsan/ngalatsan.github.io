@@ -29,7 +29,9 @@ sections:
           filename: bg.jpg
           filters:
             brightness: 0.5
-            
+          
+
+          
   
   - block: features
     id: features
