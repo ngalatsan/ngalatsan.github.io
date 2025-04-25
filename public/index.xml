@@ -13,6 +13,14 @@
     </image>
     
     <item>
+      <title>Login</title>
+      <link>https://ngalatsan.github.io/login/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ngalatsan.github.io/login/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>📈 Описание</title>
       <link>https://ngalatsan.github.io/blog/description/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
@@ -346,6 +354,22 @@
       <guid>https://ngalatsan.github.io/terms/</guid>
       <description>&lt;p&gt;Add your company legal terms here&amp;hellip;&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Авторизация</title>
+      <link>https://ngalatsan.github.io/authorization/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ngalatsan.github.io/authorization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Выход</title>
+      <link>https://ngalatsan.github.io/logout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://ngalatsan.github.io/logout/</guid>
+      <description></description>
     </item>
     
   </channel>

@@ -1,7 +1,3 @@
-# Navigation Links
-#   To link a page section, specify the URL as a hash `/#` followed by the `id` of the section.
-#   The `weight` parameter defines the order that the links will appear in.
-
 main:
   - name: Главная
     url: /#top
@@ -12,3 +8,13 @@ main:
   - name: Информация
     weight: 40
     url: blog/
+  - name: Авторизация
+    weight: 50
+    url: authorization
+    id: auth-link
+  - name: Выход
+    weight: 50 
+    url: /logout
+    id: logout-link
+    params:
+      class: hidden

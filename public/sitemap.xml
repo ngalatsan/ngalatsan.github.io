@@ -2,6 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ngalatsan.github.io/login/</loc>
+    <lastmod>2025-04-25T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://ngalatsan.github.io/blog/description/</loc>
     <lastmod>2025-04-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -47,6 +51,12 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://ngalatsan.github.io/categories/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ngalatsan.github.io/authorization/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://ngalatsan.github.io/logout/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
