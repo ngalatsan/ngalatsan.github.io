@@ -1,6 +1,6 @@
 ---
 title: SWOT-анализ, 4P
-summary: SWOT и 4P
+summary: SWOT и 4P (Product, Price, Place, Promotion)
 date: 2025-04-11
 authors:
   - admin

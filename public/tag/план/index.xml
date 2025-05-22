@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>План | EcoMonitor</title>
+    <link>https://ngalatsan.github.io/tag/%D0%BF%D0%BB%D0%B0%D0%BD/</link>
+      <atom:link href="https://ngalatsan.github.io/tag/%D0%BF%D0%BB%D0%B0%D0%BD/index.xml" rel="self" type="application/rss+xml" />
+    <description>План</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ngalatsan.github.io/media/logo_hu_d62eb0ab845aa656.png</url>
+      <title>План</title>
+      <link>https://ngalatsan.github.io/tag/%D0%BF%D0%BB%D0%B0%D0%BD/</link>
+    </image>
+    
+    <item>
+      <title>Цикл разработки</title>
+      <link>https://ngalatsan.github.io/blog/dev_cycle/</link>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://ngalatsan.github.io/blog/dev_cycle/</guid>
+      <description>
+
+
+&lt;details class=&#34;print:hidden xl:hidden&#34; open&gt;
+  &lt;summary&gt;Table of Contents&lt;/summary&gt;
+  &lt;div class=&#34;text-sm&#34;&gt;
+  &lt;nav id=&#34;TableOfContents&#34;&gt;
+  &lt;ul&gt;
+    &lt;li&gt;
+      &lt;ul&gt;
+        &lt;li&gt;&lt;a href=&#34;#цикл-разработки&#34;&gt;&lt;strong&gt;Цикл разработки&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#1-подготовительный-этап-1-месяц&#34;&gt;&lt;strong&gt;1. Подготовительный этап (1 месяц)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#2-разработка-mvp-3-месяца&#34;&gt;&lt;strong&gt;2. Разработка MVP (3 месяца)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#3-пилотное-внедрение-1-месяц&#34;&gt;&lt;strong&gt;3. Пилотное внедрение (1 месяц)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#4-подготовка-к-масштабированию-1-месяц&#34;&gt;&lt;strong&gt;4. Подготовка к масштабированию (1 месяц)&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&#34;#график&#34;&gt;&lt;strong&gt;График&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+      &lt;/ul&gt;
+    &lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/nav&gt;
+  &lt;/div&gt;
+&lt;/details&gt;
+
+&lt;h3 id=&#34;цикл-разработки&#34;&gt;&lt;strong&gt;Цикл разработки&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;Проект разбит на &lt;strong&gt;4 ключевых этапа&lt;/strong&gt;, общий срок разработки MVP (минимально жизнеспособного продукта) — &lt;strong&gt;5–6 месяцев&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;1-подготовительный-этап-1-месяц&#34;&gt;&lt;strong&gt;1. Подготовительный этап (1 месяц)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Цель:&lt;/strong&gt; Определение требований, проектирование архитектуры, формирование команды.&lt;/p&gt;
+&lt;h4 id=&#34;основные-работы&#34;&gt;&lt;strong&gt;Основные работы:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Анализ рынка и требований&lt;/strong&gt; (1–2 недели):
+&lt;ul&gt;
+&lt;li&gt;Интервью с потенциальными пользователями (госорганы, предприятия).&lt;/li&gt;
+&lt;li&gt;Изучение аналогов и нормативных требований (экологические стандарты).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Техническое проектирование&lt;/strong&gt; (2 недели):
+&lt;ul&gt;
+&lt;li&gt;Выбор технологий (Python/Django для backend, React для frontend, PostgreSQL + Spark для данных).&lt;/li&gt;
+&lt;li&gt;Проектирование API и схемы базы данных.&lt;/li&gt;
+&lt;li&gt;Планирование интеграции с датчиками и внешними источниками.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Старт команды:&lt;/strong&gt; Набор команды (руководитель, аналитик, 1–2 разработчика).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;2-разработка-mvp-3-месяца&#34;&gt;&lt;strong&gt;2. Разработка MVP (3 месяца)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Цель:&lt;/strong&gt; Создание рабочего прототипа с базовым функционалом.&lt;/p&gt;
+&lt;h4 id=&#34;спринты&#34;&gt;&lt;strong&gt;Спринты&lt;/strong&gt;&lt;/h4&gt;
+&lt;h5 id=&#34;спринт-12-backend--data-pipeline&#34;&gt;&lt;strong&gt;Спринт 1–2: Backend + Data Pipeline&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Разработка API для приема данных с датчиков.&lt;/li&gt;
+&lt;li&gt;Настройка ETL-процессов (извлечение, трансформация, загрузка данных).&lt;/li&gt;
+&lt;li&gt;Простая аналитика.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;спринт-34-frontend--визуализация&#34;&gt;&lt;strong&gt;Спринт 3–4: Frontend + Визуализация&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Веб-интерфейс с картой и графиками.&lt;/li&gt;
+&lt;li&gt;Личный кабинет для пользователей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;спринт-56-интеграции-и-отчетность&#34;&gt;&lt;strong&gt;Спринт 5–6: Интеграции и отчетность&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Подключение тестовых датчиков или симуляция данных.&lt;/li&gt;
+&lt;li&gt;Модуль формирования отчетов.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;спринт-78-тестирование-и-доработки&#34;&gt;&lt;strong&gt;Спринт 7–8: Тестирование и доработки&lt;/strong&gt;&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;Исправление багов, нагрузочное тестирование.&lt;/li&gt;
+&lt;li&gt;Подготовка документации для пользователей.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;3-пилотное-внедрение-1-месяц&#34;&gt;&lt;strong&gt;3. Пилотное внедрение (1 месяц)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Цель:&lt;/strong&gt; Проверка системы в реальных условиях.&lt;/p&gt;
+&lt;h4 id=&#34;работы&#34;&gt;&lt;strong&gt;Работы:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Развертывание на облачном сервере.&lt;/li&gt;
+&lt;li&gt;Подключение 2–3 пилотных организаций.&lt;/li&gt;
+&lt;li&gt;Сбор обратной связи, исправление критических ошибок.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;4-подготовка-к-масштабированию-1-месяц&#34;&gt;&lt;strong&gt;4. Подготовка к масштабированию (1 месяц)&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Цель:&lt;/strong&gt; Оптимизация и планирование роста.&lt;/p&gt;
+&lt;h4 id=&#34;работы-1&#34;&gt;&lt;strong&gt;Работы:&lt;/strong&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Добавление новых модулей.&lt;/li&gt;
+&lt;li&gt;Улучшение UI/UX на основе фидбека.&lt;/li&gt;
+&lt;li&gt;Планирование маркетинговой стратегии.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;график&#34;&gt;&lt;strong&gt;График&lt;/strong&gt;&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Этап&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Срок&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Основные задачи&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Подготовка&lt;/td&gt;
+          &lt;td&gt;Месяц 1&lt;/td&gt;
+          &lt;td&gt;Требования, проектирование, набор команды&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Разработка MVP&lt;/td&gt;
+          &lt;td&gt;Месяцы 2–4&lt;/td&gt;
+          &lt;td&gt;Backend, frontend, интеграции, тесты&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Пилотное внедрение&lt;/td&gt;
+          &lt;td&gt;Месяц 5&lt;/td&gt;
+          &lt;td&gt;Тестирование с реальными пользователями&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Масштабирование&lt;/td&gt;
+          &lt;td&gt;Месяц 6&lt;/td&gt;
+          &lt;td&gt;Доработки, маркетинг&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
