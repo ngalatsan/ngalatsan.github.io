@@ -180,6 +180,7 @@
      </div>
      
      <form class="auth-form" @submit.prevent="login(email, password)">
+      <p style="text-align:  center;"> Воспользуйтесь доступными способами авторизации </p>
        <div class="input-group">
          
        </div>
@@ -196,7 +197,7 @@
        <div class="input-group" style="margin: 25px 0;">
         <div style="display: flex; align-items: center; margin-bottom: 15px;">
           <div style="flex-grow: 1; height: 1px; background: #eee;"></div>
-          
+          <span style="padding: 0 10px; color: #888; font-size: 14px;">Google-аккаунт</span>
           <div style="flex-grow: 1; height: 1px; background: #eee;"></div>
         </div>
         
@@ -280,6 +281,24 @@
           alert('Ошибка входа: ' + error.message);
         });
     };
+
   </script>
+  <script>
+  
+  document.querySelector('form').addEventListener('submit', (e) => {
+    analytics.logEvent('login_attempt', {
+      method: 'google' 
+    });
+  });
+
+  
+  firebase.auth().onAuthStateChanged((user) => {
+    if (user) {
+      analytics.logEvent('login_success', {
+        uid: user.uid.substring(0, 8) 
+      });
+    }
+  });
+</script>
 </body>
 </html>

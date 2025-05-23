@@ -32,7 +32,33 @@
           window.location.href = '/';
         });
     });
+
+    
+    firebase.analytics().logEvent('logout');
+    
+    
+    const sessionStart = localStorage.getItem('session_start');
+    if (sessionStart) {
+      firebase.analytics().logEvent('session_duration', {
+        seconds: Math.round((Date.now() - sessionStart) / 1000)
+      });
+    }
   </script>
+
+  <script>
+  firebase.auth().signOut().then(() => {
+    analytics.logEvent('logout');
+    
+    
+    const sessionStart = localStorage.getItem('session_start');
+    if (sessionStart) {
+      analytics.logEvent('session_duration', {
+        seconds: Math.floor((Date.now() - sessionStart) / 1000)
+      });
+    }
+  });
+</script>
+
   <style>
     body {
       font-family: Arial, sans-serif;
