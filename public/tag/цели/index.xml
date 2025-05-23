@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Цели | EcoMonitor</title>
-    <link>http://localhost:1313/tag/%D1%86%D0%B5%D0%BB%D0%B8/</link>
-      <atom:link href="http://localhost:1313/tag/%D1%86%D0%B5%D0%BB%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://ngalatsan.github.io/tag/%D1%86%D0%B5%D0%BB%D0%B8/</link>
+      <atom:link href="https://ngalatsan.github.io/tag/%D1%86%D0%B5%D0%BB%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <description>Цели</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 11 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_d62eb0ab845aa656.png</url>
+      <url>https://ngalatsan.github.io/media/logo_hu_d62eb0ab845aa656.png</url>
       <title>Цели</title>
-      <link>http://localhost:1313/tag/%D1%86%D0%B5%D0%BB%D0%B8/</link>
+      <link>https://ngalatsan.github.io/tag/%D1%86%D0%B5%D0%BB%D0%B8/</link>
     </image>
     
     <item>
       <title>Информация о проекте</title>
-      <link>http://localhost:1313/blog/main/</link>
+      <link>https://ngalatsan.github.io/blog/main/</link>
       <pubDate>Fri, 11 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blog/main/</guid>
+      <guid>https://ngalatsan.github.io/blog/main/</guid>
       <description>
 
 
