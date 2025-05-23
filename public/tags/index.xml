@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | EcoMonitor</title>
-    <link>https://ngalatsan.github.io/tags/</link>
-      <atom:link href="https://ngalatsan.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/tags/</link>
+      <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Fri, 25 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://ngalatsan.github.io/media/logo_hu_d62eb0ab845aa656.png</url>
+      <url>http://localhost:1313/media/logo_hu_d62eb0ab845aa656.png</url>
       <title>Tags</title>
-      <link>https://ngalatsan.github.io/tags/</link>
+      <link>http://localhost:1313/tags/</link>
     </image>
     
   </channel>
